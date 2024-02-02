@@ -1,0 +1,3689 @@
+
+API Call: GET https://api.silobreaker.com/v1/heat?q=%24IOCs+AND+list%3A%22Ransomware%22+AND+fromdate%3A%22-14%22&tq=entitytype%3A%22IPv4%22
+
+Applying Digest: b'T5PN4tbQ6hUxIZFA2pO9CeT0iJM='
+
+Fetching Data...
+Final URL: https://api.silobreaker.com/v1/heat?q=%24IOCs+AND+list%3A%22Ransomware%22+AND+fromdate%3A%22-14%22&tq=entitytype%3A%22IPv4%22&apiKey=8t52ysxy0zypzq0x3v16&digest=T5PN4tbQ6hUxIZFA2pO9CeT0iJM%3D
+{
+  "Description": "$IOCs AND list:\"Ransomware\" AND fromdate:\"-14\"",
+  "Items": [
+    {
+      "Description": "168.95.4.120",
+      "DocumentFrequency": 1,
+      "EntityReference": "168954120-11_94596677",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 1
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.2396694214876034
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_94596677",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "211.22.16.234",
+      "DocumentFrequency": 1,
+      "EntityReference": "2112216234-11_94596690",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 1
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.2396694214876034
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_94596690",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "211.239.118.134",
+      "DocumentFrequency": 1,
+      "EntityReference": "211239118134-11_94596713",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 1
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.2396694214876034
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_94596713",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "218.234.32.224",
+      "DocumentFrequency": 1,
+      "EntityReference": "21823432224-11_94596717",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 1
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.2396694214876034
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_94596717",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "5.45.65.52",
+      "DocumentFrequency": 7,
+      "EntityReference": "5456552-11_1399034145",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 3
+        },
+        "DocVolume-7": {
+          "Volume": 3
+        },
+        "Heat-1/30": {
+          "Heat": 1.0801393728223e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0801393728222999
+        }
+      },
+      "Id": "11_1399034145",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "177.87.64.25",
+      "DocumentFrequency": 2,
+      "EntityReference": "177876425-11_87014381",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_87014381",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "109.169.46.59",
+      "DocumentFrequency": 2,
+      "EntityReference": "1091694659-11_87014384",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_87014384",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "142.251.16.108",
+      "DocumentFrequency": 2,
+      "EntityReference": "14225116108-11_87014480",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_87014480",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "107.6.74.76",
+      "DocumentFrequency": 2,
+      "EntityReference": "10767476-11_87014748",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_87014748",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "142.250.80.46",
+      "DocumentFrequency": 3,
+      "EntityReference": "1422508046-11_70136508",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_70136508",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "172.67.143.65",
+      "DocumentFrequency": 8,
+      "EntityReference": "1726714365-11_428092271",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_428092271",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "212.193.30.230",
+      "DocumentFrequency": 3,
+      "EntityReference": "21219330230-11_318924943",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_318924943",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "64.185.227.155",
+      "DocumentFrequency": 4,
+      "EntityReference": "64185227155-11_289931295",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_289931295",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "104.237.62.211",
+      "DocumentFrequency": 4,
+      "EntityReference": "10423762211-11_277058419",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_277058419",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "173.231.16.76",
+      "DocumentFrequency": 4,
+      "EntityReference": "1732311676-11_277058420",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_277058420",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "194.165.16.0",
+      "DocumentFrequency": 8,
+      "EntityReference": "194165160-11_1059445612",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1059445612",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "62.149.128.45",
+      "DocumentFrequency": 10,
+      "EntityReference": "6214912845-11_1041251028",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1041251028",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "104.21.95.48",
+      "DocumentFrequency": 9,
+      "EntityReference": "104219548-11_1048286184",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1048286184",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "192.169.69.26",
+      "DocumentFrequency": 5,
+      "EntityReference": "1921696926-11_828749989",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_828749989",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "65.55.50.0",
+      "DocumentFrequency": 2,
+      "EntityReference": "6555500-11_1110102059",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1110102059",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "192.42.118.0",
+      "DocumentFrequency": 2,
+      "EntityReference": "192421180-11_1110102060",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1110102060",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "78.157.209.228",
+      "DocumentFrequency": 2,
+      "EntityReference": "78157209228-11_1412721986",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1412721986",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "85.25.108.164",
+      "DocumentFrequency": 2,
+      "EntityReference": "8525108164-11_1412722333",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1412722333",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "94.23.84.94",
+      "DocumentFrequency": 2,
+      "EntityReference": "94238494-11_1412722703",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1412722703",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "94.32.66.56",
+      "DocumentFrequency": 2,
+      "EntityReference": "94326656-11_1412722707",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1412722707",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "176.31.110.165",
+      "DocumentFrequency": 2,
+      "EntityReference": "17631110165-11_1412723167",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1412723167",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "149.154.167.220",
+      "DocumentFrequency": 17,
+      "EntityReference": "149154167220-11_1651075946",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 2
+        },
+        "Heat-1/30": {
+          "Heat": 1.0538641686182671e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.053864168618267
+        }
+      },
+      "Id": "11_1651075946",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "146.70.87.159",
+      "DocumentFrequency": 7,
+      "EntityReference": "1467087159-11_264075609",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_264075609",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.253.248.228",
+      "DocumentFrequency": 7,
+      "EntityReference": "34253248228-11_224179959",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_224179959",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "35.192.93.107",
+      "DocumentFrequency": 7,
+      "EntityReference": "3519293107-11_32720142",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_32720142",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "88.132.231.71",
+      "DocumentFrequency": 7,
+      "EntityReference": "8813223171-11_105136487",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136487",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "88.153.199.169",
+      "DocumentFrequency": 6,
+      "EntityReference": "88153199169-11_105136489",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136489",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "84.147.62.12",
+      "DocumentFrequency": 6,
+      "EntityReference": "841476212-11_105136490",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136490",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "194.154.78.160",
+      "DocumentFrequency": 6,
+      "EntityReference": "19415478160-11_105136491",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136491",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "92.211.109.160",
+      "DocumentFrequency": 6,
+      "EntityReference": "92211109160-11_105136492",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136492",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "188.105.91.116",
+      "DocumentFrequency": 6,
+      "EntityReference": "18810591116-11_105136494",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136494",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.105.183.68",
+      "DocumentFrequency": 11,
+      "EntityReference": "3410518368-11_105136495",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136495",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "79.104.209.33",
+      "DocumentFrequency": 6,
+      "EntityReference": "7910420933-11_105136497",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136497",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "95.25.204.90",
+      "DocumentFrequency": 6,
+      "EntityReference": "952520490-11_105136498",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136498",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "109.145.173.169",
+      "DocumentFrequency": 6,
+      "EntityReference": "109145173169-11_105136500",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136500",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.141.146.114",
+      "DocumentFrequency": 9,
+      "EntityReference": "34141146114-11_105136501",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136501",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "212.119.227.151",
+      "DocumentFrequency": 5,
+      "EntityReference": "212119227151-11_105136502",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136502",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "195.239.51.59",
+      "DocumentFrequency": 6,
+      "EntityReference": "1952395159-11_105136503",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136503",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "188.105.91.173",
+      "DocumentFrequency": 6,
+      "EntityReference": "18810591173-11_105136504",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136504",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "109.74.154.91",
+      "DocumentFrequency": 6,
+      "EntityReference": "1097415491-11_105136505",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136505",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.105.72.241",
+      "DocumentFrequency": 6,
+      "EntityReference": "3410572241-11_105136506",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136506",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "213.33.142.50",
+      "DocumentFrequency": 6,
+      "EntityReference": "2133314250-11_105136507",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_105136507",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "88.132.227.238",
+      "DocumentFrequency": 12,
+      "EntityReference": "88132227238-11_350965717",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965717",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "195.181.175.105",
+      "DocumentFrequency": 12,
+      "EntityReference": "195181175105-11_350965723",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965723",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.145.195.58",
+      "DocumentFrequency": 12,
+      "EntityReference": "3414519558-11_350965727",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965727",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "178.239.165.70",
+      "DocumentFrequency": 12,
+      "EntityReference": "17823916570-11_350965728",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965728",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "35.199.6.13",
+      "DocumentFrequency": 12,
+      "EntityReference": "35199613-11_350965736",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965736",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "87.166.50.213",
+      "DocumentFrequency": 12,
+      "EntityReference": "8716650213-11_350965741",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965741",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "193.225.193.201",
+      "DocumentFrequency": 12,
+      "EntityReference": "193225193201-11_350965742",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965742",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "35.229.69.227",
+      "DocumentFrequency": 12,
+      "EntityReference": "3522969227-11_350965744",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965744",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "88.132.225.100",
+      "DocumentFrequency": 13,
+      "EntityReference": "88132225100-11_350965746",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965746",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.85.243.241",
+      "DocumentFrequency": 12,
+      "EntityReference": "3485243241-11_350965749",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965749",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "35.237.47.12",
+      "DocumentFrequency": 12,
+      "EntityReference": "352374712-11_350965751",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965751",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.138.96.23",
+      "DocumentFrequency": 12,
+      "EntityReference": "341389623-11_350965754",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965754",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "80.211.0.97",
+      "DocumentFrequency": 12,
+      "EntityReference": "80211097-11_350965758",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965758",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.83.46.130",
+      "DocumentFrequency": 12,
+      "EntityReference": "348346130-11_350965762",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965762",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "212.119.227.167",
+      "DocumentFrequency": 12,
+      "EntityReference": "212119227167-11_350965763",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965763",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "93.216.75.209",
+      "DocumentFrequency": 12,
+      "EntityReference": "9321675209-11_350965765",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965765",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "95.25.81.24",
+      "DocumentFrequency": 12,
+      "EntityReference": "95258124-11_350965770",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965770",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "188.105.91.143",
+      "DocumentFrequency": 12,
+      "EntityReference": "18810591143-11_350965771",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965771",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "192.211.110.74",
+      "DocumentFrequency": 12,
+      "EntityReference": "19221111074-11_350965772",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965772",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "88.132.226.203",
+      "DocumentFrequency": 12,
+      "EntityReference": "88132226203-11_350965775",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965775",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.85.253.170",
+      "DocumentFrequency": 9,
+      "EntityReference": "3485253170-11_350965776",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965776",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "195.239.51.3",
+      "DocumentFrequency": 12,
+      "EntityReference": "195239513-11_350965778",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965778",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "92.211.192.144",
+      "DocumentFrequency": 6,
+      "EntityReference": "92211192144-11_350965780",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965780",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "84.147.54.113",
+      "DocumentFrequency": 12,
+      "EntityReference": "8414754113-11_350965782",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_350965782",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "195.74.76.222",
+      "DocumentFrequency": 8,
+      "EntityReference": "1957476222-11_884438144",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_884438144",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "192.87.28.103",
+      "DocumentFrequency": 5,
+      "EntityReference": "1928728103-11_1272686109",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1272686109",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "23.128.248.46",
+      "DocumentFrequency": 10,
+      "EntityReference": "2312824846-11_1247441102",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1247441102",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "20.99.160.173",
+      "DocumentFrequency": 9,
+      "EntityReference": "2099160173-11_1126831448",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1126831448",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "192.40.57.234",
+      "DocumentFrequency": 8,
+      "EntityReference": "1924057234-11_1116295051",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1116295051",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "109.74.154.90",
+      "DocumentFrequency": 6,
+      "EntityReference": "1097415490-11_1193774587",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1193774587",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.142.74.220",
+      "DocumentFrequency": 6,
+      "EntityReference": "3414274220-11_1176932436",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1176932436",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.141.245.25",
+      "DocumentFrequency": 8,
+      "EntityReference": "3414124525-11_1176932491",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1176932491",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "91.121.98.60",
+      "DocumentFrequency": 1,
+      "EntityReference": "911219860-11_1430992826",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1430992826",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "64.124.12.162",
+      "DocumentFrequency": 8,
+      "EntityReference": "6412412162-11_1796309771",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1796309771",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "193.128.114.45",
+      "DocumentFrequency": 6,
+      "EntityReference": "19312811445-11_1756295197",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0271546635183e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0271546635183
+        }
+      },
+      "Id": "11_1756295197",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "80.66.75.116",
+      "DocumentFrequency": 4,
+      "EntityReference": "806675116-11_242391526",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0187353629976584e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0187353629976583
+        }
+      },
+      "Id": "11_242391526",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "70.39.65.128",
+      "DocumentFrequency": 6,
+      "EntityReference": "703965128-11_543257072",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0187353629976584e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0187353629976583
+        }
+      },
+      "Id": "11_543257072",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "5.255.106.234",
+      "DocumentFrequency": 4,
+      "EntityReference": "5255106234-11_543406133",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0187353629976584e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0187353629976583
+        }
+      },
+      "Id": "11_543406133",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "195.123.214.36",
+      "DocumentFrequency": 3,
+      "EntityReference": "19512321436-11_547797620",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0187353629976584e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0187353629976583
+        }
+      },
+      "Id": "11_547797620",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "45.93.201.70",
+      "DocumentFrequency": 5,
+      "EntityReference": "459320170-11_547954845",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0187353629976584e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0187353629976583
+        }
+      },
+      "Id": "11_547954845",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "206.166.251.11",
+      "DocumentFrequency": 4,
+      "EntityReference": "20616625111-11_547954846",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0187353629976584e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0187353629976583
+        }
+      },
+      "Id": "11_547954846",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "103.36.92.72",
+      "DocumentFrequency": 2,
+      "EntityReference": "103369272-11_552324221",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0187353629976584e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0187353629976583
+        }
+      },
+      "Id": "11_552324221",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "104.37.173.99",
+      "DocumentFrequency": 2,
+      "EntityReference": "1043717399-11_552324223",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 1
+        },
+        "Heat-1/30": {
+          "Heat": 1.0187353629976584e-10
+        },
+        "Heat-7/30": {
+          "Heat": 1.0187353629976583
+        }
+      },
+      "Id": "11_552324223",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "15.205.142.242",
+      "DocumentFrequency": 1,
+      "EntityReference": "15205142242-11_149842256",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_149842256",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "185.229.64.137",
+      "DocumentFrequency": 2,
+      "EntityReference": "18522964137-11_55102195",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_55102195",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "52.204.31.214",
+      "DocumentFrequency": 1,
+      "EntityReference": "5220431214-11_35120132",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120132",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.220.0.171",
+      "DocumentFrequency": 1,
+      "EntityReference": "342200171-11_35120353",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120353",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "52.86.83.143",
+      "DocumentFrequency": 1,
+      "EntityReference": "528683143-11_35120366",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120366",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "20.200.120.131",
+      "DocumentFrequency": 1,
+      "EntityReference": "20200120131-11_35120368",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120368",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "50.239.51.8",
+      "DocumentFrequency": 1,
+      "EntityReference": "50239518-11_35120369",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120369",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "112.199.96.30",
+      "DocumentFrequency": 1,
+      "EntityReference": "1121999630-11_35120374",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120374",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "5.181.214.21",
+      "DocumentFrequency": 1,
+      "EntityReference": "518121421-11_35120375",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120375",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "15.236.230.101",
+      "DocumentFrequency": 1,
+      "EntityReference": "15236230101-11_35120388",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120388",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "103.25.172.78",
+      "DocumentFrequency": 1,
+      "EntityReference": "1032517278-11_35120390",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120390",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "20.118.241.149",
+      "DocumentFrequency": 1,
+      "EntityReference": "20118241149-11_35120391",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120391",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "191.232.237.0",
+      "DocumentFrequency": 1,
+      "EntityReference": "1912322370-11_35120393",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120393",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "185.106.131.220",
+      "DocumentFrequency": 1,
+      "EntityReference": "185106131220-11_35120397",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120397",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "82.223.249.161",
+      "DocumentFrequency": 1,
+      "EntityReference": "82223249161-11_35120398",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120398",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "212.253.83.62",
+      "DocumentFrequency": 1,
+      "EntityReference": "2122538362-11_35120404",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120404",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "51.140.24.224",
+      "DocumentFrequency": 1,
+      "EntityReference": "5114024224-11_35120406",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120406",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "52.21.151.170",
+      "DocumentFrequency": 1,
+      "EntityReference": "5221151170-11_35120414",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120414",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "40.70.217.148",
+      "DocumentFrequency": 1,
+      "EntityReference": "4070217148-11_35120426",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120426",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "52.6.111.242",
+      "DocumentFrequency": 1,
+      "EntityReference": "526111242-11_35120432",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120432",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "3.225.111.3",
+      "DocumentFrequency": 1,
+      "EntityReference": "32251113-11_35120436",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120436",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "54.253.35.64",
+      "DocumentFrequency": 1,
+      "EntityReference": "542533564-11_35120444",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120444",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "180.232.151.54",
+      "DocumentFrequency": 1,
+      "EntityReference": "18023215154-11_35120448",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120448",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "181.49.141.27",
+      "DocumentFrequency": 1,
+      "EntityReference": "1814914127-11_35120458",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120458",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "210.196.72.59",
+      "DocumentFrequency": 1,
+      "EntityReference": "2101967259-11_35120468",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120468",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "54.69.111.5",
+      "DocumentFrequency": 1,
+      "EntityReference": "54691115-11_35120469",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120469",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "52.60.57.80",
+      "DocumentFrequency": 1,
+      "EntityReference": "52605780-11_35120472",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120472",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "52.13.24.210",
+      "DocumentFrequency": 1,
+      "EntityReference": "521324210-11_35120480",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120480",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "104.43.230.206",
+      "DocumentFrequency": 1,
+      "EntityReference": "10443230206-11_35120492",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120492",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.233.0.235",
+      "DocumentFrequency": 1,
+      "EntityReference": "342330235-11_35120498",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120498",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "138.128.160.148",
+      "DocumentFrequency": 1,
+      "EntityReference": "138128160148-11_35120502",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120502",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "198.49.76.29",
+      "DocumentFrequency": 1,
+      "EntityReference": "198497629-11_35120539",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120539",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "20.109.173.164",
+      "DocumentFrequency": 1,
+      "EntityReference": "20109173164-11_35120588",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120588",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "115.31.142.102",
+      "DocumentFrequency": 1,
+      "EntityReference": "11531142102-11_35120590",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120590",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "35.85.150.92",
+      "DocumentFrequency": 1,
+      "EntityReference": "358515092-11_35120591",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120591",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "74.43.153.77",
+      "DocumentFrequency": 1,
+      "EntityReference": "744315377-11_35120592",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120592",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "23.99.223.25",
+      "DocumentFrequency": 1,
+      "EntityReference": "239922325-11_35120604",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120604",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "94.233.72.2",
+      "DocumentFrequency": 1,
+      "EntityReference": "94233722-11_35120605",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_35120605",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "45.140.17.4",
+      "DocumentFrequency": 10,
+      "EntityReference": "45140174-11_37900998",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_37900998",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "202.0.0.131",
+      "DocumentFrequency": 3,
+      "EntityReference": "20200131-11_44658979",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_44658979",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "77.91.68.30",
+      "DocumentFrequency": 2,
+      "EntityReference": "77916830-11_29815566",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_29815566",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "107.172.148.208",
+      "DocumentFrequency": 2,
+      "EntityReference": "107172148208-11_29815604",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_29815604",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "107.172.148.217",
+      "DocumentFrequency": 2,
+      "EntityReference": "107172148217-11_29815605",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_29815605",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "212.192.219.58",
+      "DocumentFrequency": 2,
+      "EntityReference": "21219221958-11_29815606",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_29815606",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "78.138.105.156",
+      "DocumentFrequency": 2,
+      "EntityReference": "78138105156-11_29815607",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_29815607",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "190.151.52.190",
+      "DocumentFrequency": 1,
+      "EntityReference": "19015152190-11_73052374",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_73052374",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "81.18.176.44",
+      "DocumentFrequency": 3,
+      "EntityReference": "811817644-11_422407553",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_422407553",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "185.246.220.85",
+      "DocumentFrequency": 9,
+      "EntityReference": "18524622085-11_402735173",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 4
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_402735173",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "92.168.10.107",
+      "DocumentFrequency": 3,
+      "EntityReference": "9216810107-11_409793458",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_409793458",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "161.35.102.56",
+      "DocumentFrequency": 6,
+      "EntityReference": "1613510256-11_521915664",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 4
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_521915664",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "77.91.68.62",
+      "DocumentFrequency": 6,
+      "EntityReference": "77916862-11_536645618",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 6
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_536645618",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "156.96.113.118",
+      "DocumentFrequency": 6,
+      "EntityReference": "15696113118-11_495968377",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_495968377",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "185.246.220.60",
+      "DocumentFrequency": 9,
+      "EntityReference": "18524622060-11_495968384",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 4
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_495968384",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "189.240.242.163",
+      "DocumentFrequency": 2,
+      "EntityReference": "189240242163-11_318158733",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_318158733",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "34.138.169.8",
+      "DocumentFrequency": 11,
+      "EntityReference": "341381698-11_277131224",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_277131224",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "45.129.137.232",
+      "DocumentFrequency": 2,
+      "EntityReference": "45129137232-11_1060389511",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 2
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_1060389511",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    },
+    {
+      "Description": "136.243.1.39",
+      "DocumentFrequency": 1,
+      "EntityReference": "136243139-11_1666040928",
+      "Extras": {
+        "DocVolume-1": {
+          "Volume": 0
+        },
+        "DocVolume-30": {
+          "Volume": 1
+        },
+        "DocVolume-7": {
+          "Volume": 0
+        },
+        "Heat-1/30": {
+          "Heat": 0.0
+        },
+        "Heat-7/30": {
+          "Heat": 0.0
+        }
+      },
+      "Id": "11_1666040928",
+      "LocalizedType": "IPv4",
+      "Type": "IPv4"
+    }
+  ],
+  "Source": "InMem",
+  "TotalCount": 147
+}
